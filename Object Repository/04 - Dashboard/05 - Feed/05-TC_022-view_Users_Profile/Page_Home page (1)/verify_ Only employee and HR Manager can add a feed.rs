@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_ Only employee and HR Manager can add a feed</name>
+   <tag></tag>
+   <elementGuidId>2115b0c4-7d50-4c87-99cc-1960dbc6dac4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a2fe3a95-e218-4fa2-a857-a2b68556dab6']/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;a2fe3a95-e218-4fa2-a857-a2b68556dab6&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;bootstrap-dialog-body&quot;]/div[@class=&quot;bootstrap-dialog-message&quot;][count(. | //div[(text() = 'Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.' or . = 'Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.') and @ref_element = 'Object Repository/Page_Home page/iframe__mycontent-right-frame']) = count(//div[(text() = 'Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.' or . = 'Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.') and @ref_element = 'Object Repository/Page_Home page/iframe__mycontent-right-frame'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap-dialog-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5755f1b1-f94d-4962-9e61-532d89ebd2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-dialog-message</value>
+      <webElementGuid>fd253dea-a725-4a2d-b697-3092ac602c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.</value>
+      <webElementGuid>58b7d454-390c-418f-a921-cc563a8bd0ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a2fe3a95-e218-4fa2-a857-a2b68556dab6&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;bootstrap-dialog-body&quot;]/div[@class=&quot;bootstrap-dialog-message&quot;]</value>
+      <webElementGuid>a518c34d-920b-4f08-a10c-10ac36f2b54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/05 - Feed/05-TC_022-view_Users_Profile/Page_Home page (1)/iframe__mycontent-right-frame</value>
+      <webElementGuid>2e2b2745-d37a-4e96-a0b7-591d4d55ceae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a2fe3a95-e218-4fa2-a857-a2b68556dab6']/div/div/div[2]/div/div</value>
+      <webElementGuid>884083ba-2a9d-49ad-8f3d-3d59cc03ce1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::div[3]</value>
+      <webElementGuid>869f3f8a-8192-49bc-b83c-22443b829fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[4]/following::div[4]</value>
+      <webElementGuid>3fbbe73d-cdb6-4d2b-8c1f-7b80531117f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[1]</value>
+      <webElementGuid>a77bec98-2761-498c-82f6-de182fb69ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.']/parent::*</value>
+      <webElementGuid>7bc55efa-2fd4-492c-b914-cc6cf929746b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div/div</value>
+      <webElementGuid>a715a4ba-74f9-4b8e-acd4-0d0935c9fa77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.' or . = 'Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.')]</value>
+      <webElementGuid>4030df08-67d9-4a94-a681-d166631b7765</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

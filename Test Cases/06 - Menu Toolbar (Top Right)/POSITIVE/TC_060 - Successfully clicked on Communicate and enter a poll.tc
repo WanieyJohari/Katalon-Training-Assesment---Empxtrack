@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_060 - Successfully clicked on Communicate and enter a poll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1598347-c990-4a3c-a357-80038f2cb961</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profile sections</name>
+   <tag></tag>
+   <elementGuidId>e43c14f4-ce3a-4772-942d-39a2b6a5b465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='display_page_quickLinks']/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.graybar-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>58df7f7b-cf65-4d0b-8663-f58e470284a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>graybar-label</value>
+      <webElementGuid>b6ff5015-3026-46c8-8c28-575c5f945c9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile sections</value>
+      <webElementGuid>4e0e2e9c-49ed-430f-978d-76f3d55259bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;display_page_quickLinks&quot;)/div[@class=&quot;populatedShortCutMenu&quot;]/div[@class=&quot;graybar&quot;]/span[@class=&quot;graybar-label&quot;]</value>
+      <webElementGuid>1e4b6536-4642-43ac-b4e1-54afbe001dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/05 -Self-services/TC_041-view_Profile_in_Full Page/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>291549ce-05e1-46f8-b90b-c1302c93e27d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='display_page_quickLinks']/div[2]/div/span</value>
+      <webElementGuid>7daf3291-e31c-4f42-99f8-c41c18b4db80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::span[3]</value>
+      <webElementGuid>bb08ad90-ac0a-4a69-843b-1e656939fb37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile sections']/parent::*</value>
+      <webElementGuid>f86935c6-b4f2-4a4f-90b0-82214002fcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>fc9554c9-8321-48d2-90f8-f9d4dd0e9dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Profile sections' or . = 'Profile sections')]</value>
+      <webElementGuid>dfc74fab-ade3-45f7-aa3d-3c6c92acf6d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

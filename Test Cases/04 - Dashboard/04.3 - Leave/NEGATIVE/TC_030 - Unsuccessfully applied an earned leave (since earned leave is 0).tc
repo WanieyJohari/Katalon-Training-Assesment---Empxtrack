@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_030 - Unsuccessfully applied an earned leave (since earned leave is 0)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6223271-072c-4ffb-bf9e-583445f18a6b</testCaseGuid>
+</TestCaseEntity>

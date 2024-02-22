@@ -1,0 +1,113 @@
+Features and Scenarios from Empxtrack
+//This list is not necessarily exhaustive, and you can explore the application further and practice on your own.
+//If you encountered this message (license issue) upon testing some of the scenarios, you can just complete the steps until this message is shown (no need to force to make it successful). Otherwise, if the scenario is not being able to execute completely, you can just ignore it and complete the other scenarios.
+
+❖ Login
+➢ (+) Successfully login
+➢ (-) Users enter invalid username
+➢ (-) Users enter incorrect password 
+
+❖ Reset password
+➢ (+) Successfully reset the password
+➢ (-) Users enter wrong username
+➢ (-) Users enter wrong company ID
+
+Search (This is considered one group of features)
+➢ (+) Users able to search for a feature and the results are displayed
+➢ (+) Users able to navigate to the corresponding feature correctly upon clicking on one
+of the search results
+➢ (-) Users enter invalid feature and no results displayed
+➢ (+) Users able to search for employees by @ prefix, followed by name
+➢ (+) Users able to navigate to the corresponding employee correctly upon clicking on
+one of the search results
+➢ (-) Users enter invalid employee name and no results displayed
+
+
+Dashboard
+
+❖ Event
+➢ (+) Successfully add new event 
+➢ (-) Users unsuccessfully save blank event
+➢ (+) Successfully add new task
+➢ (-) Users unsuccessfully save blank task 
+
+❖ Feed
+➢ (+) Successfully add a comment on one of the users 
+➢ (+) Successfully expand comment section on one of the users (Small blue arrow
+pointing down on right side)
+➢ (+) Successfully add an emoji comment on one of the users
+➢ (+) Successfully put a like on one of the users
+➢ (-) Unsuccessfully add an empty comment -unable to click Ok
+➢ (+) Successfully view one of the users’ profiles (three-dot button) 
+➢ (+) Successfully view one of the users’ profiles in full page
+➢ (+) Successfully ‘See All’ feeds
+➢ (-) Unsuccessfully add a new feed
+
+❖ Leave
+➢ (+) Successfully applied a casual leave
+➢ (+) Successfully applied a half-day casual leave
+➢ (-) Unsuccessfully applied a casual leave without a reason
+➢ (-) Unsuccessfully applied half-day casual leave with first half and second half ticked
+at the same time
+➢ (-) Unsuccessfully applied an earned leave (since earned leave is 0)
+➢ (+) Successfully applied a sick leave
+➢ (-) Unsuccessfully applied a sick leave without a reason
+
+❖ Attendance
+➢ (+) Successfully start an attendance
+➢ (+) Successfully trigger break time (Add break)
+➢ (+) Successfully resume work
+➢ (+) Successfully end an attendance
+➢ (+) Successfully ‘See All’ attendance
+➢ (+) Successfully view Holiday Calendar
+➢ (+) Successfully ‘See All’ attendance in full page 
+
+Self-services
+
+❖ Profile
+➢ (+) Successfully view profile
+➢ (+) Successfully view profile in full page
+➢ (+) Successfully add any of the FIVE detail types (e.g. Hobbies, Permanent address,
+Education, etc.) in the profile
+➢ (-) Unsuccessfully add any of the FIVE detail types (e.g. Hobbies, Permanent address,
+Education, etc.) with empty information in the profile
+➢ (+) Successfully view changes to profile data (eye icon on top right)
+
+❖ Leave
+➢ (+) Successfully view leave transactions
+➢ (+) Successfully cancel a pending leave request
+➢ (+) Successfully view Leave Policy
+
+❖ Attendance
+➢ (+) Successfully regularize attendance
+➢ (+) Successfully view attendance dashboard
+➢ (+) Successfully view attendance dashboard in full page
+
+❖ Tickets
+➢ (+) Successfully view My Tickets
+➢ (+) Successfully view My Tickets in full page
+➢ (+) Successfully created a ticket
+➢ (-) Unsuccessfully created a ticket with empty information
+➢ (+) Successfully searched a ticket ID
+
+
+Menu Toolbar (Top Right)
+
+➢ (+) Successfully clicked on ‘TODOS’ to view Message Center
+➢ (+) Successfully viewed notifications
+➢ (+) Successfully clicked on Communicate and chat with a colleague
+➢ (-) Unsuccessfully chat with a colleague with empty information
+➢ (+) Successfully clicked on Communicate and enter a poll
+➢ (+) Successfully clicked on Communicate and leave feedback
+➢ (-) Unsuccessfully leave feedback with empty information
+➢ (+) Successfully clicked on Communicate and share a suggestion
+➢ (-) Unsuccessfully share a suggestion with empty information
+➢ (+) Successfully clicked on Time based activities 
+
+User Profile Icon (Top Right)
+
+➢ (+) Successfully clicked on user profile icon to open menu
+➢ (+) Successfully update a password
+➢ (-) Unsuccessfully update a blank password
+➢ (-) Unsuccessfully update a new password not matching with confirm password
+➢ (-) Unsuccessfully update a password not according to the password policy

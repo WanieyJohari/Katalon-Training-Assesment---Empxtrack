@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add a feed</name>
+   <tag></tag>
+   <elementGuidId>79245f02-4299-40d4-8032-05941229f4e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed&quot;)[count(. | //*[@id = 'btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed' and (text() = ' Add a feed' or . = ' Add a feed') and @ref_element = 'Object Repository/Page_Home page/iframe__mycontent-right-frame']) = count(//*[@id = 'btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed' and (text() = ' Add a feed' or . = ' Add a feed') and @ref_element = 'Object Repository/Page_Home page/iframe__mycontent-right-frame'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c4b13206-b654-4860-a326-7bbcf32ae1ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_primary </value>
+      <webElementGuid>54c30942-9d9a-4467-b7d4-ec0821da0c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed</value>
+      <webElementGuid>a49ced74-c525-4c34-9d4a-9b42a1d219aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:feedRoleIssue();return false;</value>
+      <webElementGuid>305bd84b-92cd-4aa8-a7f4-a3690aeb6867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add a feed</value>
+      <webElementGuid>5ca59417-a811-4faf-a1b9-98470fd976b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed&quot;)</value>
+      <webElementGuid>e5404d8b-4871-471f-9fda-62009be5e8dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/05 - Feed/05-TC_022-view_Users_Profile/Page_Home page (1)/iframe__mycontent-right-frame</value>
+      <webElementGuid>eb264a2a-9f60-41c3-adf1-dd2c1256b2d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed']</value>
+      <webElementGuid>13c900e6-97c8-43eb-9523-f12332e66897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-section-panel']/div/div/div[3]/div/div[2]/ul/li/a</value>
+      <webElementGuid>120479c5-b860-4ce9-a874-7fac01d43718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add a feed')]</value>
+      <webElementGuid>581a2770-465c-4696-8d62-9611ddbbb213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View more...'])[1]/following::a[1]</value>
+      <webElementGuid>2705835d-d83e-4e39-b8f1-c2a7b5716540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/preceding::a[1]</value>
+      <webElementGuid>c8f013e1-061e-469b-b7f0-fb28cdf01b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed', '&quot;', ')')])[1]/preceding::a[1]</value>
+      <webElementGuid>52ce85e8-5537-4350-8e07-79e268ce25e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>f70f9eed-4a69-4449-9d64-27dd9f0b8618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_3Ci20class3D27fas20fa-plus273E3C2Fi3E26nbsp3BAdd20a20feed' and (text() = ' Add a feed' or . = ' Add a feed')]</value>
+      <webElementGuid>8a4878ed-37a2-4d72-bfe8-c7decbde2cf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

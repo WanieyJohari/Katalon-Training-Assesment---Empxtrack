@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Help_fas fa-eye</name>
+   <tag></tag>
+   <elementGuidId>0d4cc23e-308d-4eae-8455-462e0c36966e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_0']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4ee9afaa-aa20-4877-b2be-19724cade0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>804a37fb-bf9a-456e-8413-96d4bf644b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-eye</value>
+      <webElementGuid>d91ea860-b24f-4d45-a60b-c0676fe9cb99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionItemsInSlideDropDownOptions&quot;)/a[@id=&quot;btn_0&quot;]/i[@class=&quot;fas fa-eye&quot;]</value>
+      <webElementGuid>7866fa6f-eeb4-44ac-9bd2-ca735a774b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/05 -Self-services/TC_44-view_changes_to_Profile_Data/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>5b433256-a6b4-4d6f-8e21-8776934431df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btn_0']/i</value>
+      <webElementGuid>844edb73-e07e-428e-8d8d-b25fd1de2660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>abbb8c93-5652-45ad-bed7-eea0a590f70a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

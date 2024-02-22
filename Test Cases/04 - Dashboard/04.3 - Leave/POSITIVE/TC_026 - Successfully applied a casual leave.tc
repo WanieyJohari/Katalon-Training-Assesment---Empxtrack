@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_026 - Successfully applied a casual leave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6a0b0f5-41ef-4a49-ba78-ffbbcba16ddd</testCaseGuid>
+</TestCaseEntity>

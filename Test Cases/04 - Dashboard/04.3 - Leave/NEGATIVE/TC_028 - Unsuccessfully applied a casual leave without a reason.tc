@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_028 - Unsuccessfully applied a casual leave without a reason</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ba9f71a-2057-4c52-a12c-2d33791b386a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_053 - Successfully created a ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c153cd7b-c050-40f6-a217-cdf96a35c136</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>29e1a8d0-6abd-48ae-be28-aee6e94eac99</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>b24e23ba-27c9-4c8b-bd6f-15d3f910245b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Testing 123'</defaultValue>
+      <description></description>
+      <id>29e1a8d0-6abd-48ae-be28-aee6e94eac99</id>
+      <masked>false</masked>
+      <name>ticketSubject</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is testing'</defaultValue>
+      <description></description>
+      <id>b24e23ba-27c9-4c8b-bd6f-15d3f910245b</id>
+      <masked>false</masked>
+      <name>ticketDescription</name>
+   </variable>
+</TestCaseEntity>

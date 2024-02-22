@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Attendance</name>
+   <tag></tag>
+   <elementGuidId>9c8dcc6e-b9b6-46bd-a4d7-4352b89ac26b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-7.col-xs-7.widget-title-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='attendance_title']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>30cb3415-815f-4bce-8f63-3ce3a9e1517b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-7 col-xs-7 widget-title-text</value>
+      <webElementGuid>333af894-7f7f-41f8-806b-96291094bf5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Attendance </value>
+      <webElementGuid>88b7f065-9d8f-49a7-babc-07cf4767e54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attendance_title&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-7 col-xs-7 widget-title-text&quot;]</value>
+      <webElementGuid>f2f868b2-5d41-48ec-8309-9f73cde440d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TC_33-start_Attendance/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>588ce99e-d899-47fd-8636-79b3d9e1c15f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='attendance_title']/div/div</value>
+      <webElementGuid>d04235c5-c85d-4c48-a10a-87e6b4dfde28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing 001'])[2]/following::div[7]</value>
+      <webElementGuid>cfc0eac5-0175-4304-9cc0-ac400e8e39d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='all-day'])[13]/following::div[7]</value>
+      <webElementGuid>f889afe9-6f03-4d03-b758-25e8149e1548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Started day'])[1]/preceding::div[2]</value>
+      <webElementGuid>4a8424b8-56b5-4994-94f2-582ad5ffae90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/preceding::div[3]</value>
+      <webElementGuid>d781ec96-d204-48a6-b42d-e6925ac20594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Attendance']/parent::*</value>
+      <webElementGuid>2ad4f73a-d2f0-46dd-ba1d-89b72b6289bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div/div/div/div</value>
+      <webElementGuid>ffa00344-bb03-411d-84dd-b1ed7a4dc25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Attendance ' or . = ' Attendance ')]</value>
+      <webElementGuid>169a247b-3397-465a-8677-2c38e84ccdf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Casual Leave_fas fa-ellipsis-h</name>
+   <tag></tag>
+   <elementGuidId>eb58c1cc-a038-4632-a477-4baa33390cbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[3]/div/a/span/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//i[@class = 'fas fa-ellipsis-h' and @ref_element = 'Object Repository/06-TC_026_success_Apply_Casual Leave/Page_Home page (1)/iframe_Self services_homePageFrame']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-ellipsis-h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>779273ec-96d1-43af-afa4-885903499a0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-ellipsis-h</value>
+      <webElementGuid>8f92aba1-5e7b-47d1-92b5-08b65e5b74fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_navBarId_renderTableHeaderArray_1706427226824_0&quot;)/span[1]/i[@class=&quot;fas fa-ellipsis-h&quot;]</value>
+      <webElementGuid>954075d6-d44f-4510-b3cf-f3b326e07660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04.3 - Leave/TC_026_success_Apply_Casual Leave (1)/Page_Home page (1)/iframe_Self services_homePageFrame</value>
+      <webElementGuid>236e512b-5935-4e46-b954-793214cd36f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='_navBarId_renderTableHeaderArray_1706427226824_0']/span/i</value>
+      <webElementGuid>89741e68-a570-4a9b-b48a-a168d2afa621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/a/span/i</value>
+      <webElementGuid>b8251cb2-f2d3-4b51-a708-70938d2f481a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

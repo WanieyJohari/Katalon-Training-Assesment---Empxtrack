@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Event invitation has been added successfully</name>
+   <tag></tag>
+   <elementGuidId>30692540-a2a0-458a-8a41-b5794a9b2be2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Event invitation has been added successfully.' or . = 'Event invitation has been added successfully.') and @ref_element = 'Object Repository/04 - Dashboard/04.1 - Event/TC_013-success_Add_Event/Page_Home page/iframe_Self services_homePageFrame']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation!'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap-dialog-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0c7ae45-b4a7-4ca6-b4db-ed414a0bb77c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-dialog-message</value>
+      <webElementGuid>ff2ac13b-f2d1-49c2-8a99-d5172cf5cd63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event invitation has been added successfully.</value>
+      <webElementGuid>3132674d-f9b8-406c-9978-1a8360fc29ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdae3182-661b-4ec7-84bc-d479f9d0b63b&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;bootstrap-dialog-body&quot;]/div[@class=&quot;bootstrap-dialog-message&quot;]</value>
+      <webElementGuid>b79b4b7b-7987-4f0e-9e7d-58ea8e4333bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/04.1 - Event/TC_013-success_Add_Event/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>c3d18fc6-7556-4bfd-8352-2479452925be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdae3182-661b-4ec7-84bc-d479f9d0b63b']/div/div/div[2]/div/div</value>
+      <webElementGuid>bb9ea235-d3ac-434b-9f9e-3283406e4059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation!'])[1]/following::div[3]</value>
+      <webElementGuid>abb25216-247c-4e2a-9719-a396c1a30b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/following::div[4]</value>
+      <webElementGuid>3e1e781e-94b2-464c-944e-b2d469b92370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::div[1]</value>
+      <webElementGuid>dfc772d0-afdb-4ef0-9a44-6d0502dc3fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Event invitation has been added successfully.']/parent::*</value>
+      <webElementGuid>c8b606e7-e894-401b-964a-f792ff3c2664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[2]/div/div</value>
+      <webElementGuid>c1e5920d-5a71-4079-833f-53ece4a4ac34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Event invitation has been added successfully.' or . = 'Event invitation has been added successfully.')]</value>
+      <webElementGuid>03e60a72-34aa-47ca-a5be-25f3be8603dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

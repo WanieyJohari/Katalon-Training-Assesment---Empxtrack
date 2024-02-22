@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_051 - Successfully view My Tickets</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf02493d-d824-4ef1-986d-ef33fd316664</testCaseGuid>
+</TestCaseEntity>

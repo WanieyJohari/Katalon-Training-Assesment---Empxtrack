@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_015 - Successfully add new task</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3d8efc0-40ab-4c15-a1f8-f5c36dbd17f4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff5536e7-71e9-40d5-a7ee-6fee3950fdb0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f67e9b90-9280-4652-98dd-b501bc22f7ad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4633898a-1898-4b06-85e4-cc3a4b20d97e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Testing 001'</defaultValue>
+      <description></description>
+      <id>ff5536e7-71e9-40d5-a7ee-6fee3950fdb0</id>
+      <masked>false</masked>
+      <name>taskSubject</name>
+   </variable>
+   <variable>
+      <defaultValue>'07/02/2024'</defaultValue>
+      <description></description>
+      <id>f67e9b90-9280-4652-98dd-b501bc22f7ad</id>
+      <masked>false</masked>
+      <name>taskDue</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is testing'</defaultValue>
+      <description></description>
+      <id>4633898a-1898-4b06-85e4-cc3a4b20d97e</id>
+      <masked>false</masked>
+      <name>taskDetails</name>
+   </variable>
+</TestCaseEntity>

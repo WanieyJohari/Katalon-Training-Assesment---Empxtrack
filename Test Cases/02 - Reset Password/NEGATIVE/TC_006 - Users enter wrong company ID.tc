@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006 - Users enter wrong company ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52926eee-529d-4594-af1c-6296902f5a09</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8a86920-a227-4359-9e15-3f10c0675c81</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testtestbitssdnbhd'</defaultValue>
+      <description></description>
+      <id>a8a86920-a227-4359-9e15-3f10c0675c81</id>
+      <masked>false</masked>
+      <name>invalidCompanyID</name>
+   </variable>
+</TestCaseEntity>

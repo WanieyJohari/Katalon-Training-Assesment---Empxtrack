@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_062 - Unsuccessfully leave feedback with empty information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e6311dc-28ed-4e84-ac6e-19064a602e9a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>897c9482-d3c8-4012-b6ce-a857050dd1c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'emp'</defaultValue>
+      <description></description>
+      <id>897c9482-d3c8-4012-b6ce-a857050dd1c7</id>
+      <masked>false</masked>
+      <name>employeeSearch</name>
+   </variable>
+</TestCaseEntity>

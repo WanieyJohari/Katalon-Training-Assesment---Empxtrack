@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save_Hobbies</name>
+   <tag></tag>
+   <elementGuidId>81b1cbf0-1abc-4bb8-91b4-bcd045fb1b7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='edit']/i)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-save</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c626bd2c-7593-423c-89cd-995c47c92e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-save</value>
+      <webElementGuid>4508d410-6432-4c2a-aaf4-f45690da3f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-dialog-empxtrack&quot;)/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;li_tr_profile_bb form-group&quot;]/div[@class=&quot;col-md-3 col-xs-3&quot;]/a[@id=&quot;edit&quot;]/i[@class=&quot;fa fa-save&quot;]</value>
+      <webElementGuid>0afb3ce7-2ede-4927-a453-8ad227bcf7fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/05 -Self-services/TC_043_add_Hobbies_in_Profile/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>b0f66378-677a-46e3-aba2-0d501c7a462f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='edit']/i)[3]</value>
+      <webElementGuid>29e701fd-d9d3-4a2a-8d45-52153a64a440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div[3]/a/i</value>
+      <webElementGuid>cee35b7a-5bb7-4f31-8c18-2f1485550c67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

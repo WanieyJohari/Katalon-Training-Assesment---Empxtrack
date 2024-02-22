@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Emoji_face</name>
+   <tag></tag>
+   <elementGuidId>a01ca1fc-5a1d-477f-9f95-319d56a199ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='help-header_1000011']/div/div[35]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;CONFOUNDED FACE&quot;] > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>675bf85a-c0af-44e4-9810-2d3a8c52e9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>😖</value>
+      <webElementGuid>1ebc9581-7917-446f-8091-e98dcb3ad972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;help-header_1000011&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-2&quot;]/a[1]/span[1]</value>
+      <webElementGuid>b7218d93-0597-4283-8d53-e0caf5d263f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/05 - Feed/05-TC_019-add_Emoji_on_Comment/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>0191e605-b89d-40c0-afae-b5f2fa62de9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='help-header_1000011']/div/div[35]/a/span</value>
+      <webElementGuid>a2df66dc-b645-4f75-8565-99a24235378f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😕'])[1]/following::span[1]</value>
+      <webElementGuid>2924fae7-c165-4d8d-99bf-a2702d008949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😔'])[1]/following::span[2]</value>
+      <webElementGuid>d54e5484-0097-4257-9ef0-f409b3d100e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😗'])[1]/preceding::span[1]</value>
+      <webElementGuid>37d6f4a9-2071-4cb4-ba04-3cea3afd2bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😘'])[1]/preceding::span[2]</value>
+      <webElementGuid>42179dbf-33c6-459d-a9bf-17da6c6b2bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='😖']/parent::*</value>
+      <webElementGuid>fe928c30-f2b7-4e01-be7d-3527acfb020d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[35]/a/span</value>
+      <webElementGuid>b3b3cdfd-8576-4a80-ae08-a66575036e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '😖' or . = '😖')]</value>
+      <webElementGuid>8feb60ee-38ec-48fc-94dd-8a6d457226a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

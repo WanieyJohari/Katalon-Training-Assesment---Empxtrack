@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Help deskTickets</name>
+   <tag></tag>
+   <elementGuidId>1752de30-655b-4dfa-b1c7-dbd0068646ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'showMyTicketsHelpDesk_headerV10' and (text() = ' Help desk/Tickets' or . = ' Help desk/Tickets') and @ref_element = 'Object Repository/TC_51-view_My Tickets/Page_Home page/iframe_Self services_homePageFrame']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#showMyTicketsHelpDesk_headerV10</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Help desk/Tickets']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>262d639a-6b9d-425a-bc08-698bfdef97cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>showMyTicketsHelpDesk_headerV10</value>
+      <webElementGuid>313f0cb8-bd0f-4cf6-9d04-c4fa1b374fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v10widget-tite-font</value>
+      <webElementGuid>0b68c196-fd80-49d0-ae89-7f19dd0b3711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Help desk/Tickets</value>
+      <webElementGuid>493a3d89-496e-4fe2-9f22-8dc7a8cd0eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;showMyTicketsHelpDesk_headerV10&quot;)</value>
+      <webElementGuid>aa134c90-01e5-4879-8625-51f7c0f38a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/05 -Self-services/TC_51-view_My Tickets/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>f2c7a667-03e0-45a5-9423-201944f0e5bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='showMyTicketsHelpDesk_headerV10']</value>
+      <webElementGuid>5048252a-7224-44bc-afbb-5134740b4c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='head-areaV10']/h2)[4]</value>
+      <webElementGuid>b597a598-6a79-423e-af01-47ceaa51a81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After 11:00'])[2]/following::h2[1]</value>
+      <webElementGuid>971e32f4-e08f-4a01-acaa-9512587c3c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Before 9:00'])[1]/following::h2[1]</value>
+      <webElementGuid>4822a51d-1cbf-4197-a1d6-ceb4b2d60046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket id'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5a12fcfe-4ceb-4704-b9b4-7ba2ad0e54e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Type'])[1]/preceding::h2[1]</value>
+      <webElementGuid>869f8bb8-7ad1-4c88-b7d0-6cdd3ae85b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Help desk/Tickets']/parent::*</value>
+      <webElementGuid>c340cb32-e428-4a62-9a72-619a5dabbce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/h2</value>
+      <webElementGuid>10b5cc74-50db-472a-8fd7-975cba798851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'showMyTicketsHelpDesk_headerV10' and (text() = ' Help desk/Tickets' or . = ' Help desk/Tickets')]</value>
+      <webElementGuid>15fbcc31-16af-47b8-8337-42503f6d2937</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

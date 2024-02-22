@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invalid User Name, Password or Company specified</name>
+   <tag></tag>
+   <elementGuidId>cdb91612-5e2d-4536-91d4-77640f39a2a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#m287</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Invalid User Name, Password or Company specified. ' or . = 'Invalid User Name, Password or Company specified. ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Invalid User Name, Password or Company specified.']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>233eb9d8-b350-4df2-9e32-365862601e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>err</value>
+      <webElementGuid>dc088fb5-9214-4d30-ad27-e0d15028e3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>m287</value>
+      <webElementGuid>d3576700-4013-46e6-8595-4dbf08a2ed82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid User Name, Password or Company specified. </value>
+      <webElementGuid>067303f5-f999-47f6-a244-c901f6a202c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m287&quot;)</value>
+      <webElementGuid>d35715da-3023-4a3f-aad6-2dfecf1e7e16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='m287']</value>
+      <webElementGuid>49db73dc-a198-4fbb-9403-870a1920600c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Should be checked if you are on a public computer.)'])[1]/preceding::div[2]</value>
+      <webElementGuid>a7cc3a44-7c26-4956-81b1-6c1bae306175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid User Name, Password or Company specified.']/parent::*</value>
+      <webElementGuid>ec0bdecc-ca4e-46b6-ae43-018564330512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>e39ec76e-b412-41d0-9406-84176e78039c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'm287' and (text() = 'Invalid User Name, Password or Company specified. ' or . = 'Invalid User Name, Password or Company specified. ')]</value>
+      <webElementGuid>136ac9f8-c12b-413a-a25c-f6b2efdcebf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

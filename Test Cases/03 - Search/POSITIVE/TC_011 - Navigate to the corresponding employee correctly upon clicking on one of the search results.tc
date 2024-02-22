@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011 - Navigate to the corresponding employee correctly upon clicking on one of the search results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76ed97c7-cb4b-4266-8c27-06d96902bd8c</testCaseGuid>
+</TestCaseEntity>

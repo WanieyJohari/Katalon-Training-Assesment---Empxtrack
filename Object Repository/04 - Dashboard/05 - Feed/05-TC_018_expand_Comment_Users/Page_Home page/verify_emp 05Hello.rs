@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_emp 05Hello</name>
+   <tag></tag>
+   <elementGuidId>7765ebd0-2572-42b1-9ba8-ad8220a9a3c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'emp 05  Hello' or . = 'emp 05  Hello') and @ref_element = 'Object Repository/04 - Dashboard/05 - Feed/05-TC_018_expand_Comment_Users/Page_Home page/iframe_Self services_homePageFrame']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[11]/div[3]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.comment</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38bbe5c2-e5a9-425d-9ae2-9589e1c9dc12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>comment</value>
+      <webElementGuid>6de3a9fd-1d47-4fa3-a38a-9d15fa27f02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>emp 05  Hello</value>
+      <webElementGuid>e29538c9-a921-4e87-ba0b-5153393379c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewFeedResponse_1000011_1000025&quot;)/div[@class=&quot;col-md-12 comment-del&quot;]/div[@class=&quot;comment&quot;]</value>
+      <webElementGuid>468c9182-6c93-4c7e-806c-838dd36a3271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/05 - Feed/05-TC_018_expand_Comment_Users/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>3639d1ff-da0d-4c4a-a829-83d0f3e94b93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='viewFeedResponse_1000011_1000025']/div/div[2]</value>
+      <webElementGuid>40179a43-b785-4de5-aabb-e51e93e0adc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[3]/div/div/div[2]</value>
+      <webElementGuid>37834b3d-620a-4990-9eca-f401427f6ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'emp 05  Hello' or . = 'emp 05  Hello')]</value>
+      <webElementGuid>f4e249ab-e462-4a02-a446-a297470f2b89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

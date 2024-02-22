@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View details for emp  01</name>
+   <tag></tag>
+   <elementGuidId>feb2f0d9-c35b-4592-928c-50bc4c6ecb6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ajax_listOfOptions</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ajax_listOfOptions']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0387b60-5c6d-4c53-b4b3-559f09a993d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ajax_listOfOptions</value>
+      <webElementGuid>2119051d-dda9-4a32-b25e-4ef5a59e1ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View details for: emp  01 View details for: emp  02 View details for: emp  03 View details for: emp  04 View details for: emp  05 View details for: emp  06 View details for: emp  07 View details for: emp  08 View details for: emp  09 View details for: emp  10 </value>
+      <webElementGuid>b5221f42-6753-4678-bde0-2510e925832c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ajax_listOfOptions&quot;)</value>
+      <webElementGuid>b3ae5721-d9f9-4bf5-bf65-5f4deb9448ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='ajax_listOfOptions']</value>
+      <webElementGuid>76b6d72b-23ef-4489-80ca-14e56a8409e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ajax_listOfOptions', '&quot;', ')')])[1]/following::div[1]</value>
+      <webElementGuid>75e235c3-5e16-4882-9e3d-a56364363a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[2]</value>
+      <webElementGuid>e19eb2c0-4111-4ee9-8d34-d3b4c9e7463d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>f6f21d39-1641-406c-a382-40407d97f72a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'ajax_listOfOptions' and (text() = 'View details for: emp  01 View details for: emp  02 View details for: emp  03 View details for: emp  04 View details for: emp  05 View details for: emp  06 View details for: emp  07 View details for: emp  08 View details for: emp  09 View details for: emp  10 ' or . = 'View details for: emp  01 View details for: emp  02 View details for: emp  03 View details for: emp  04 View details for: emp  05 View details for: emp  06 View details for: emp  07 View details for: emp  08 View details for: emp  09 View details for: emp  10 ')]</value>
+      <webElementGuid>9e28cedd-e9d7-43e0-b721-0ce758ecafdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

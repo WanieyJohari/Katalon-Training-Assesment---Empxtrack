@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Task</name>
+   <tag></tag>
+   <elementGuidId>76a9e44d-01ba-490f-acd5-47180d28c838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-dialog-empxtrack']/div/div/div/div[2]/div[2]/div/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3.col-xs-5 > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c7da78df-d97b-4f50-bea0-d03f23cd3574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Task</value>
+      <webElementGuid>14735bab-b225-42b8-9f14-9b7a4559a1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-dialog-empxtrack&quot;)/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col-md-12 popup_new&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-3 col-xs-5&quot;]/label[1]</value>
+      <webElementGuid>67071c9f-ce78-410e-b192-5519eff6d40f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/04.1 - Event/TC_015-success_Add_New_Task/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>56806c64-2a71-4f5f-b885-38af9064309d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-dialog-empxtrack']/div/div/div/div[2]/div[2]/div/div[2]/label</value>
+      <webElementGuid>6fca8046-0b08-4185-8f82-c5a6ad9cda48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::label[1]</value>
+      <webElementGuid>2c7a0b3c-d9eb-4b2a-b97e-33cceb60d4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a Task'])[1]/following::label[2]</value>
+      <webElementGuid>97263e4d-a90d-4581-9a6c-334696061e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject'])[1]/preceding::label[1]</value>
+      <webElementGuid>2b691515-4cae-45cd-8d8d-dfdce10a649c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>c0584fdb-911c-4177-8554-00cebd2b0d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Task' or . = 'Task')]</value>
+      <webElementGuid>776b4914-9ae3-4271-80ae-d24acde4495b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

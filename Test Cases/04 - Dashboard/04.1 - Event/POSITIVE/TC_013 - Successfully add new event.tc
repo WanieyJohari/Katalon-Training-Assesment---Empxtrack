@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_013 - Successfully add new event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20d48c01-f69a-4175-914d-4a5c6f05f67e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>e0f8e860-641c-418b-8d8e-533db357d248</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>2fcd37a2-0266-4339-a6ef-a7d2d568515e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>3578f4c3-c338-4f94-a2d0-9cf6fa12efb7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Testing Emp'</defaultValue>
+      <description></description>
+      <id>e0f8e860-641c-418b-8d8e-533db357d248</id>
+      <masked>false</masked>
+      <name>subject</name>
+   </variable>
+   <variable>
+      <defaultValue>'08/02/2024'</defaultValue>
+      <description></description>
+      <id>2fcd37a2-0266-4339-a6ef-a7d2d568515e</id>
+      <masked>false</masked>
+      <name>selectedStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'(GMT+04:00) Abu Dhabi, Muscat'</defaultValue>
+      <description></description>
+      <id>3578f4c3-c338-4f94-a2d0-9cf6fa12efb7</id>
+      <masked>false</masked>
+      <name>timeZone</name>
+   </variable>
+</TestCaseEntity>

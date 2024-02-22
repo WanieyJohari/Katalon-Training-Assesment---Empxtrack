@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_Say hello to emp 09 on joining  as Default</name>
+   <tag></tag>
+   <elementGuidId>3a8108d3-8d66-4c06-8731-3efd2e17c6ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='buddy_title_1000011']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buddy_title_1000011</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9d47a4fe-4cab-400e-b84f-a70d080f9024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buddy_title_1000011</value>
+      <webElementGuid>88a47b7f-f23e-4a85-9288-77441acd980d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Say hello to emp 09 on joining  as Default</value>
+      <webElementGuid>1f6a045f-4fd2-4f39-940e-49d5ae33423b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buddy_title_1000011&quot;)</value>
+      <webElementGuid>d9be0537-1c6e-4026-8852-b60365f16dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/05 - Feed/05-TC_021-unsuccessfully_Add_Empty_Comment/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>7d3a41e8-03e0-4939-884f-c307c0a1c80e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='buddy_title_1000011']</value>
+      <webElementGuid>62397f3a-aebe-43fe-bf67-339b21ba8028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buddy_box_1000011']/div/div[2]/span</value>
+      <webElementGuid>39e92195-bc7f-4af5-85ce-c9ca81f9d207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hi'])[1]/following::span[1]</value>
+      <webElementGuid>44b52c0f-ad1c-47a2-8301-c02c2c2f8fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Em Faris'])[1]/following::span[2]</value>
+      <webElementGuid>a3fe0a14-38de-449e-9915-6f762ae110b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='emp 05'])[1]/preceding::span[3]</value>
+      <webElementGuid>a1b4f674-7eb1-46c2-9457-f2c0415fda68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😖'])[1]/preceding::span[3]</value>
+      <webElementGuid>1e0a5d62-8b29-450f-86bf-17659aca5624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/span</value>
+      <webElementGuid>872e01ff-3122-48d8-a8db-54b35e0cc555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'buddy_title_1000011' and (text() = 'Say hello to emp 09 on joining  as Default' or . = 'Say hello to emp 09 on joining  as Default')]</value>
+      <webElementGuid>46bfd9b7-5323-42ca-b6e6-13250a494838</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

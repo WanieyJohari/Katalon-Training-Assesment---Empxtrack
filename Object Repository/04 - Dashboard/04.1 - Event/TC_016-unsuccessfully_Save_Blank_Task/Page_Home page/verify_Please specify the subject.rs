@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_Please specify the subject</name>
+   <tag></tag>
+   <elementGuidId>20daa58c-3aec-4b76-a7b7-790e5867177b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='21889603-aed8-439d-ab3a-80e42b940c82']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#21889603-aed8-439d-ab3a-80e42b940c82 > div.modal-dialog > div.modal-content > div.modal-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ae5d4a08-e303-4047-ac31-7b8f6a0490b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>de2de252-4645-4441-b073-b9cbeb960e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please specify the subject</value>
+      <webElementGuid>c7330c32-4a1f-43bc-ae89-80c1ba469a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;21889603-aed8-439d-ab3a-80e42b940c82&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>d3857ff5-aea4-4610-9010-9ec6f53c4749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/04.1 - Event/TC_016-unsuccessfully_Save_Blank_Task/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>e97decb8-67b8-4b08-8e9e-aafaeaa8074a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='21889603-aed8-439d-ab3a-80e42b940c82']/div/div/div[2]</value>
+      <webElementGuid>3d4f5cf4-170c-4feb-813d-5d7d7d382535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::div[1]</value>
+      <webElementGuid>e4a3abd3-7511-450c-8df8-0cd75135350b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/following::div[2]</value>
+      <webElementGuid>f99b1da0-984c-4f16-92f7-2d993794e317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[3]</value>
+      <webElementGuid>d3ff807f-ecc4-413e-89a0-81b072b60a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div[2]</value>
+      <webElementGuid>e3575a3b-8dca-4943-a480-0b99e1dd1736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please specify the subject' or . = 'Please specify the subject')]</value>
+      <webElementGuid>c8bf8c51-8288-4a45-9320-d80e7ef6bb7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

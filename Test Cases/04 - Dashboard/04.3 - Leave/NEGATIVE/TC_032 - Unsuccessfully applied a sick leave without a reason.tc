@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_032 - Unsuccessfully applied a sick leave without a reason</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e92d1b8e-20f9-430c-906f-ee3a2062bc11</testCaseGuid>
+</TestCaseEntity>

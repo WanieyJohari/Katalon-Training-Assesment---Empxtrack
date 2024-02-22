@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_014 - Users unsuccessfully save blank event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3658887-6807-4678-8064-a45f742f60f6</testCaseGuid>
+</TestCaseEntity>

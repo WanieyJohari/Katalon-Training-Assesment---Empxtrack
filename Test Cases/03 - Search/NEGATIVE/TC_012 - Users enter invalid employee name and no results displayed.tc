@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_012 - Users enter invalid employee name and no results displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6323d7c-7aae-47cc-99c4-ee4be5109cfd</testCaseGuid>
+</TestCaseEntity>

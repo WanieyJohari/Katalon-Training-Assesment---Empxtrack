@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_031 - Successfully applied a sick leave</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>347b1ff6-dd87-488f-b7d0-0c8c875a4a48</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00336e40-05b8-4717-a362-05bae48811aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Fever'</defaultValue>
+      <description></description>
+      <id>00336e40-05b8-4717-a362-05bae48811aa</id>
+      <masked>false</masked>
+      <name>reasonSickLeave</name>
+   </variable>
+</TestCaseEntity>

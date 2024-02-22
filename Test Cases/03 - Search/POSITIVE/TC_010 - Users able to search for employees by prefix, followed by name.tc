@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_010 - Users able to search for employees by prefix, followed by name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8af38e76-2a42-4cb8-942d-ab0012a2aa22</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_view_My Profile</name>
+   <tag></tag>
+   <elementGuidId>ac699274-2f98-45f1-a614-55ccdd3ac620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myProfileOverview_title']/div[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-user-pen.widget-title-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ba7f4006-fd48-4917-9730-4be1a032c9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-user-pen widget-title-text</value>
+      <webElementGuid>de4ca0b5-a15f-4a96-aecc-2d5c4f7a985b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>View or Edit Profile</value>
+      <webElementGuid>85f44de2-e0e9-4f4d-bf50-385798c36d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myProfileOverview_title&quot;)/div[@class=&quot;col-md-1 col-xs-3&quot;]/a[@class=&quot;widget-settings-icon-style&quot;]/i[@class=&quot;fa-solid fa-user-pen widget-title-text&quot;]</value>
+      <webElementGuid>2fb8421e-56b1-4159-a1e0-b7c212ba350a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/05 -Self-services/TC_040_view_Profile/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>69d9c83b-532e-414f-94d6-c70fdbc16e08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myProfileOverview_title']/div[2]/a/i</value>
+      <webElementGuid>c4cd9c13-bd04-4fb8-9de8-dae2aa190a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/a/i</value>
+      <webElementGuid>8913c8f6-a015-4f60-9a35-67e3d5a2e99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'View or Edit Profile']</value>
+      <webElementGuid>b09a93d7-8afe-4145-8542-021810633988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

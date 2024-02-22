@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_021 - Unsuccessfully add an empty comment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>201f4cb6-6944-4eb2-a890-8587971e8705</testCaseGuid>
+</TestCaseEntity>

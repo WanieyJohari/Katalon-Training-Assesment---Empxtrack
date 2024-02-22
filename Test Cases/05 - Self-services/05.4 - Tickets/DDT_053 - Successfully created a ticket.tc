@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT_053 - Successfully created a ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41724b73-8a64-4f0b-ac5b-8edb7bb1ba00</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f11c911f-1370-4f57-94d4-05ceabbd981e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/053-newTicket</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f11c911f-1370-4f57-94d4-05ceabbd981e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ticketSubject</value>
+      <variableId>084706e3-71b6-443c-94ae-caec94bdab87</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f11c911f-1370-4f57-94d4-05ceabbd981e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ticketDescription</value>
+      <variableId>2dceae01-4004-4b1c-873c-ffbc6767058f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Testing 123'</defaultValue>
+      <description></description>
+      <id>084706e3-71b6-443c-94ae-caec94bdab87</id>
+      <masked>false</masked>
+      <name>ticketSubject</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is testing'</defaultValue>
+      <description></description>
+      <id>2dceae01-4004-4b1c-873c-ffbc6767058f</id>
+      <masked>false</masked>
+      <name>ticketDescription</name>
+   </variable>
+</TestCaseEntity>

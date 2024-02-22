@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tripledot_Apply_Leave</name>
+   <tag></tag>
+   <elementGuidId>e0d6f1fd-be1b-4cdf-89a2-f86dc30836b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='_navBarId_renderTableHeaderArray_1706425251091_0']//i[@class='fas fa-ellipsis-h']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;_navBarId_renderTableHeaderArray_1706424536407_0&quot;)/span[1]/i[@class=&quot;fas fa-ellipsis-h&quot;][count(. | //*[@class = 'fas fa-ellipsis-h' and @ref_element = 'Object Repository/06-TC_026_success_Apply_Casual Leave/Page_Home page/iframe_Self services_homePageFrame']) = count(//*[@class = 'fas fa-ellipsis-h' and @ref_element = 'Object Repository/06-TC_026_success_Apply_Casual Leave/Page_Home page/iframe_Self services_homePageFrame'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-ellipsis-h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b1eae3bc-560f-420a-b81b-fac56c6288ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-ellipsis-h</value>
+      <webElementGuid>428928f0-c2ef-41a6-ab9e-b963400aa556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_navBarId_renderTableHeaderArray_1706424536407_0&quot;)/span[1]/i[@class=&quot;fas fa-ellipsis-h&quot;]</value>
+      <webElementGuid>4f36ef57-acda-4a12-94a1-c17a54f45837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/04.3 - Leave (1)/TC_026_success_Apply_Casual Leave/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>b8f0aa4d-2d25-4b3c-9652-38dc48ba1850</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='_navBarId_renderTableHeaderArray_1706424536407_0']/span/i</value>
+      <webElementGuid>a6567995-15a8-4ddc-aa18-91fa9b4b2a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/a/span/i</value>
+      <webElementGuid>62e7bb6d-b854-4a81-872f-e24a9d5c04c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ticket_type_dropdown</name>
+   <tag></tag>
+   <elementGuidId>01e3b1c8-56e8-4c41-b1c2-997b54085133</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ticketType_chosen > a.chosen-single > div > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ticketType_chosen']/a/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>b4bad778-8230-475d-a3c7-401c7b254ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ticketType_chosen&quot;)/a[@class=&quot;chosen-single&quot;]/div[1]/b[1]</value>
+      <webElementGuid>8913c2ac-6962-4e12-94e8-c4fffdcd75ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/05 -Self-services/TC_53-create_A_Ticket/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>3243895e-ddc6-4c03-9eb2-e009f12e86b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ticketType_chosen']/a/div/b</value>
+      <webElementGuid>78770be2-e18a-49c6-80b9-2fa7b7d8cde4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/a/div/b</value>
+      <webElementGuid>d6f44721-0e81-44d6-9edb-9f051fa37d4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

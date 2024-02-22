@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_059 - Unsuccessfully chat with a colleague with empty information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d08028b5-1c1f-4718-adef-c6cecd5a7694</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10882509-5de0-430c-b1fa-1c698203904d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'emp'</defaultValue>
+      <description></description>
+      <id>10882509-5de0-430c-b1fa-1c698203904d</id>
+      <masked>false</masked>
+      <name>employeeSearch</name>
+   </variable>
+</TestCaseEntity>

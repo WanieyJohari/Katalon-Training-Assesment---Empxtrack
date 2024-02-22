@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_You can not create leave request since you have reached the allowable limit of leave requests for this month</name>
+   <tag></tag>
+   <elementGuidId>84e5d8ba-15ff-4843-8355-70792e3c3d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap-dialog-message</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'bootstrap-dialog-message' and (text() = 'You can not create leave request since you have reached the allowable limit of leave requests for this month. Please upgrade your Leave Licences!' or . = 'You can not create leave request since you have reached the allowable limit of leave requests for this month. Please upgrade your Leave Licences!') and @ref_element = 'Object Repository/06-TC_031-applied_Sick_Leave/Page_Home page/iframe_Self services_homePageFrame']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='You can not create leave request since you have reached the allowable limit of leave requests for this month. Please upgrade your Leave Licences!']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>24980896-c820-45ad-b092-848d0b03aea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-dialog-message</value>
+      <webElementGuid>1a2c9b16-07bc-40cf-8b65-54d6717f398e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You can not create leave request since you have reached the allowable limit of leave requests for this month. Please upgrade your Leave Licences!</value>
+      <webElementGuid>cdc95fa9-171e-459f-bc06-4cfb3c465efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cc9719a5-9b99-4bd2-8afa-1547df022b90&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;bootstrap-dialog-body&quot;]/div[@class=&quot;bootstrap-dialog-message&quot;]</value>
+      <webElementGuid>90b9c94a-78ff-4643-b9ef-e55537441ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/06 - Leave/06-TC_031-applied_Sick_Leave/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>fa9392f0-98b5-4b89-a1d4-571421019633</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cc9719a5-9b99-4bd2-8afa-1547df022b90']/div/div/div[2]/div/div</value>
+      <webElementGuid>f7fe5833-c9f8-421c-9665-16af89ad7006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::div[3]</value>
+      <webElementGuid>72acc2a3-bd5a-40a9-beeb-90e2d2febf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/following::div[4]</value>
+      <webElementGuid>24bb233c-62b7-4e52-aeb4-f1d3f4776687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[1]</value>
+      <webElementGuid>255549cc-5525-44b4-b31b-48978b3020ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You can not create leave request since you have reached the allowable limit of leave requests for this month. Please upgrade your Leave Licences!']/parent::*</value>
+      <webElementGuid>1fe6f633-810b-4c9f-b5e6-c96a2642860e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div[2]/div/div</value>
+      <webElementGuid>2261efe9-1c88-470c-906f-fc3bc8480cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'You can not create leave request since you have reached the allowable limit of leave requests for this month. Please upgrade your Leave Licences!' or . = 'You can not create leave request since you have reached the allowable limit of leave requests for this month. Please upgrade your Leave Licences!')]</value>
+      <webElementGuid>cef6a989-0e55-4af1-905e-eac612fea528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

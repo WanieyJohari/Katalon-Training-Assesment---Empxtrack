@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The login credentials are not correct. _ca8e3d</name>
+   <tag></tag>
+   <elementGuidId>fe03d964-ea0b-49fb-8ef8-2328e174ed0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='m711']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'The login credentials are not correct. Please contact your HR Manager or Administrator for support.' or . = 'The login credentials are not correct. Please contact your HR Manager or Administrator for support.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#m711</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c26b3b79-ef07-4051-a48d-4f8a61ef6c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>err</value>
+      <webElementGuid>be538bfb-bc66-4218-a5f2-38b64b583701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>m711</value>
+      <webElementGuid>3cd187ed-6790-4de0-983c-ecd10c4b5137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The login credentials are not correct. Please contact your HR Manager or Administrator for support.</value>
+      <webElementGuid>eed3e166-41dd-4751-87c1-102c9486f31c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m711&quot;)</value>
+      <webElementGuid>509bc9c2-f213-47ad-a460-721691d67f14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='m711']</value>
+      <webElementGuid>71b6bb1d-aee5-4e6f-bfd0-06b3caea10a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Should be checked if you are on a public computer.)'])[1]/preceding::div[2]</value>
+      <webElementGuid>f1991851-edab-4772-9ec3-32c829117787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The login credentials are not correct. Please contact your HR Manager or Administrator for support.']/parent::*</value>
+      <webElementGuid>915cf4b0-e288-45c9-ae8f-183bc9988a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>f653a171-f473-4393-9336-c11d8cc7555b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'm711' and (text() = 'The login credentials are not correct. Please contact your HR Manager or Administrator for support.' or . = 'The login credentials are not correct. Please contact your HR Manager or Administrator for support.')]</value>
+      <webElementGuid>e3ac3284-9136-4170-bcbf-c96e9494d588</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The login credentials are not correct. _ca8e3d</name>
+   <tag></tag>
+   <elementGuidId>d7f9168d-cfd4-488f-80b6-3703d5215c1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#m284</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'The login credentials are not correct. Please contact your HR Manager or Administrator for support.' or . = 'The login credentials are not correct. Please contact your HR Manager or Administrator for support.')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='The login credentials are not correct. Please contact your HR Manager or Administrator for support.']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ee062fd-285e-4257-a0ac-a93dbdcee993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>err</value>
+      <webElementGuid>5c4bb8c6-ec32-4795-a461-8b5657e1aadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>m284</value>
+      <webElementGuid>25df6693-3cb0-4c83-8a8d-e3e6f730b1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The login credentials are not correct. Please contact your HR Manager or Administrator for support.</value>
+      <webElementGuid>c8b87b7d-e044-4658-8ce3-9e442ca3b728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m284&quot;)</value>
+      <webElementGuid>b335117b-2e89-46cd-a512-c7fbf5986576</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='m284']</value>
+      <webElementGuid>c4bbe2b9-a782-4f70-b662-ebbc290fccca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Should be checked if you are on a public computer.)'])[1]/preceding::div[2]</value>
+      <webElementGuid>878177d7-165a-4d3f-a756-7dcd5152a3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The login credentials are not correct. Please contact your HR Manager or Administrator for support.']/parent::*</value>
+      <webElementGuid>e8f5b8a5-4d59-4fa7-8828-3e8bde0eeaf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>778495d0-d419-4166-95f1-1390dcb256af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'm284' and (text() = 'The login credentials are not correct. Please contact your HR Manager or Administrator for support.' or . = 'The login credentials are not correct. Please contact your HR Manager or Administrator for support.')]</value>
+      <webElementGuid>0215a0c0-8dca-4846-94ae-1926a3febf6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

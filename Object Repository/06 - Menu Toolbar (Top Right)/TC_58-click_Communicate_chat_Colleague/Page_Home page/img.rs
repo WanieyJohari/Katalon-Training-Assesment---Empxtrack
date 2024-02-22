@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>ec3b342a-c7ea-4c99-a7a1-30cefef60e8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chatItems123 > a.pull-right > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chatItems123']/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>85f83edb-b5fb-4348-8061-9a3f4396ab6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/v10/chat.png</value>
+      <webElementGuid>d74f286e-3174-40a5-8e20-bc5a3c32cce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chatItems123&quot;)/a[@class=&quot;pull-right&quot;]/img[1]</value>
+      <webElementGuid>f1692a5e-402c-4fa8-9684-e1a46ff9ff3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chatItems123']/a/img</value>
+      <webElementGuid>66f40ad4-e6fd-4690-812e-ac1b7d545dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/img</value>
+      <webElementGuid>c27dd7ce-8cfe-41f7-bf3c-b339a81440f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/v10/chat.png']</value>
+      <webElementGuid>9ce63066-7ecd-4dd0-9a33-b9d945724454</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

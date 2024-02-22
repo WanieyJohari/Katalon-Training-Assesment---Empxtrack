@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_button_Like_Emp 10</name>
+   <tag></tag>
+   <elementGuidId>57c8751f-2a3e-436e-8037-18cc2d4f9522</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@id='fontCls_1000012']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'fontCls_1000012' and @ref_element = 'Object Repository/04-TC_020_put_Like_On_Users/Page_Home page/iframe__mycontent-right-frame']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fontCls_1000012</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a8d8228a-3dc2-4311-bca7-c4e9067ea7c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fontCls_1000012</value>
+      <webElementGuid>8da576fc-e4a4-442b-bef4-d3137ecd2218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-thumbs-up likefeed far</value>
+      <webElementGuid>5fdfe919-ae74-4e1c-88a8-86bbabf91d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fontCls_1000012&quot;)</value>
+      <webElementGuid>5e7f543c-4c96-4f76-bef9-af619b50e90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/04 - Dashboard/05 - Feed/05-TC_020_put_Like_On_Users/Page_Home page/iframe__mycontent-right-frame</value>
+      <webElementGuid>600a2bf5-5a31-4a0e-a9fb-d635a91250c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@id='fontCls_1000012']</value>
+      <webElementGuid>507a4349-6292-4791-8af1-aea29898a673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='jsFunUpdate_1000012']/i</value>
+      <webElementGuid>7f334c3a-708a-4845-842d-b3f21b0cace2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a/i</value>
+      <webElementGuid>9de50113-99c4-4481-ac9b-fb6f201c550c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@id = 'fontCls_1000012']</value>
+      <webElementGuid>472d2aaf-2501-4721-89e0-8b42c6471c94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

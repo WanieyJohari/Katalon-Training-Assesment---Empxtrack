@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_055 - Successfully searched a ticket ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>038eabd0-f9f8-42f5-a7c4-7df98841acb3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7435cbdd-dabb-483e-bf10-599d25603041</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1004118'</defaultValue>
+      <description></description>
+      <id>7435cbdd-dabb-483e-bf10-599d25603041</id>
+      <masked>false</masked>
+      <name>ticketID</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_042 - Add hobbies in the profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>897ca184-ed5b-45ad-8dcf-1aafe20b9d7e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fbafc023-cfc0-4d48-9048-34940676c098</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hiking'</defaultValue>
+      <description></description>
+      <id>fbafc023-cfc0-4d48-9048-34940676c098</id>
+      <masked>false</masked>
+      <name>hobbies</name>
+   </variable>
+</TestCaseEntity>

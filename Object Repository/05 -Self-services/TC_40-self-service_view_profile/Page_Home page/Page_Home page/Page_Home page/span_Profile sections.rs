@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profile sections</name>
+   <tag></tag>
+   <elementGuidId>40a40491-80d2-4e30-bc32-29f98c293ed8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.graybar-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='display_page_quickLinks']/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>10cc1d4b-8269-4193-afc6-72ffb704fa76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>graybar-label</value>
+      <webElementGuid>f6d35e81-3c28-4cc5-a658-4def47ca7fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile sections</value>
+      <webElementGuid>582bb7ab-9deb-42f5-99dc-897d92cc5496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;display_page_quickLinks&quot;)/div[@class=&quot;populatedShortCutMenu&quot;]/div[@class=&quot;graybar&quot;]/span[@class=&quot;graybar-label&quot;]</value>
+      <webElementGuid>5b21e9f2-286d-4235-ba37-7f0968a0e73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/05 -Self-services/TC_40-self-service_view_profile/Page_Home page/Page_Home page/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>80ddb34d-5091-43f5-ac22-1d696509b23b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='display_page_quickLinks']/div[2]/div/span</value>
+      <webElementGuid>3c30f424-7ba7-4b92-99f7-6e8a69dfbc52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::span[3]</value>
+      <webElementGuid>bebddf2e-c76c-491a-be31-b3b044ef6638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile sections']/parent::*</value>
+      <webElementGuid>60e7ee01-8c10-4fe3-b899-25798e51eb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>b8cc0f86-05cc-404d-9468-ff2bd47504c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Profile sections' or . = 'Profile sections')]</value>
+      <webElementGuid>a3c0d9fc-7e5c-47c6-aba9-15f6ccb7a4f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

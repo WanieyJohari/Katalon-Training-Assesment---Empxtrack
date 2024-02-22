@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_016 - Users unsuccessfully save blank task</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1ea4379-3bd2-47ff-9835-74b5d1a95512</testCaseGuid>
+</TestCaseEntity>

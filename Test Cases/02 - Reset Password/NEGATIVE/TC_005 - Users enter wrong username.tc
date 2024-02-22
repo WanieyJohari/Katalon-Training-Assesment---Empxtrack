@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005 - Users enter wrong username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91eab198-4069-40ce-9e1a-e1872a5fdfa3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>617955fd-3cca-44a0-a209-36735425ad7c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'eeempxt.latihan05@yopmail.com'</defaultValue>
+      <description></description>
+      <id>617955fd-3cca-44a0-a209-36735425ad7c</id>
+      <masked>false</masked>
+      <name>invalidUsername</name>
+   </variable>
+</TestCaseEntity>

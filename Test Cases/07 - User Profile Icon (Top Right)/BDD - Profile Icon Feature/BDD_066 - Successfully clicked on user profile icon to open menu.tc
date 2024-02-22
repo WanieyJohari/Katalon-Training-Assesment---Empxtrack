@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BDD_066 - Successfully clicked on user profile icon to open menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fb80ac6-c6e0-4544-9615-f1ed9c716e12</testCaseGuid>
+</TestCaseEntity>

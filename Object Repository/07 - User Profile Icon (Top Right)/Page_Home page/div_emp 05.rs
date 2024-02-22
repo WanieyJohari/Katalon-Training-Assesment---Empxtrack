@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_emp 05</name>
+   <tag></tag>
+   <elementGuidId>39e2355e-ddd4-4da4-a28a-c2b230443be8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section_user_bar']/div/div[2]/ul/li/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.name_em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03438cd7-9312-419d-8cc3-284378408904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name_em</value>
+      <webElementGuid>4f55e091-b6fd-4089-8e75-ca73ff1faa5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>emp 05</value>
+      <webElementGuid>a62296ce-63f1-4aab-b280-4bd25167e89d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section_user_bar&quot;)/div[@class=&quot;col-md-12 toprightN&quot;]/div[@class=&quot;col-md-4 col-xs-5 pull-right dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[1]/div[@class=&quot;emp-des&quot;]/div[@class=&quot;fullname&quot;]/div[@class=&quot;name_em&quot;]</value>
+      <webElementGuid>cc230ce3-1a42-4708-83c8-83363adb9a76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section_user_bar']/div/div[2]/ul/li/div[2]/div/div</value>
+      <webElementGuid>5f301bc7-4bff-4b5d-9804-db00c968e7a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e'])[1]/following::div[5]</value>
+      <webElementGuid>dd17a29b-693c-449e-ba1c-39ff917534c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee'])[1]/following::div[9]</value>
+      <webElementGuid>aa30e53b-780a-4499-b70b-ade49f80f0fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default | Default'])[1]/preceding::div[2]</value>
+      <webElementGuid>c8e5d410-2811-44f4-9573-668205f2f0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My profile'])[1]/preceding::div[5]</value>
+      <webElementGuid>972fcb59-2598-4921-8e20-b2fd1285a2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]/div/div</value>
+      <webElementGuid>6cfe77d5-8e07-4f12-a500-2c250745ea44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'emp 05' or . = 'emp 05')]</value>
+      <webElementGuid>dbf8e7d7-62cf-4501-990e-d7d9eba13d0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

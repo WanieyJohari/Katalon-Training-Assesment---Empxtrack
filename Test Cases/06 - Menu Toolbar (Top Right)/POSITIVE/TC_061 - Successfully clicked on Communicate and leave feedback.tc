@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_061 - Successfully clicked on Communicate and leave feedback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d97fc4c6-17bb-41ed-bca6-db9fb7e2f7d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b09d838-0b14-49f5-b183-398f7e51aa7a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>19134cd3-c4a3-4a19-b6e6-f163cfb96072</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'emp'</defaultValue>
+      <description></description>
+      <id>2b09d838-0b14-49f5-b183-398f7e51aa7a</id>
+      <masked>false</masked>
+      <name>employeeSearch</name>
+   </variable>
+   <variable>
+      <defaultValue>'Good'</defaultValue>
+      <description></description>
+      <id>19134cd3-c4a3-4a19-b6e6-f163cfb96072</id>
+      <masked>false</masked>
+      <name>inputFeedback</name>
+   </variable>
+</TestCaseEntity>
